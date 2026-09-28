@@ -1,0 +1,20 @@
+name,cnpj,mainSegment,reputationStatus,reputationScore,consumerScore,complaints,answered,responseRatePct,solvedRatePct,dealAgainRatePct,avgResponseTimeHours,url
+Banco Bradesco,60746948000112,Bancos e Financeiras,GOOD,7,5.69,31731,31718,100,69.4,59.6,193.6,https://www.reclameaqui.com.br/empresa/bradesco/
+Nubank,18236120000158,Bancos e Financeiras,RA1000,8.7,7.72,56987,56963,100,93.2,81.1,98.1,https://www.reclameaqui.com.br/empresa/nubank/
+Banco do Brasil,00000000000191,Bancos e Financeiras,GOOD,7.5,6.29,26625,26623,100,74.9,67.2,219.2,https://www.reclameaqui.com.br/empresa/banco-do-brasil/
+Banco Santander,90400888000142,Bancos e Financeiras,BAD,5.7,4.23,33290,33272,99.9,52,43.7,169.8,https://www.reclameaqui.com.br/empresa/santander/
+C6 Bank,31872495000172,Bancos e Financeiras,GOOD,7.2,5.72,19859,19714,99.3,77.2,60.5,288.3,https://www.reclameaqui.com.br/empresa/c6-bank/
+Banco Itaú,60701190000104,Bancos e Financeiras,GREAT,8.1,6.97,19160,19120,99.8,85.1,73.8,159.7,https://www.reclameaqui.com.br/empresa/itau/
+PicPay,22896431000110,Bancos e Financeiras,RA1000,8.6,7.78,16981,16947,99.8,90.6,76,182.1,https://www.reclameaqui.com.br/empresa/picpay/
+Mercado Pago,10573521000434,Bancos e Financeiras,GREAT,8,6.98,54217,54206,100,80.4,75.1,266.5,https://www.reclameaqui.com.br/empresa/mercado-pago/
+Magazine Luiza - Loja Online,47960950000121,Varejo,RA1000,8.2,7.09,56890,54182,95.2,90.7,74.7,300.5,https://www.reclameaqui.com.br/empresa/magazine-luiza-loja-online/
+Mercado Livre,03361252000134,Varejo,GOOD,7.8,6.48,194481,193346,99.4,78.5,75.8,263.8,https://www.reclameaqui.com.br/empresa/mercado-livre/
+Amazon,15436940000103,Varejo,GREAT,8.1,7.09,124798,116829,93.6,86.3,77.6,486.5,https://www.reclameaqui.com.br/empresa/amazon/
+Shopee ,35635824000112,Varejo,REGULAR,6.8,5.19,137658,131229,95.3,67.1,64,460.2,https://www.reclameaqui.com.br/empresa/shopee/
+Claro,00000000000,"Telefonia, TV e Internet",NOT_RECOMMENDED,1.3,,92491,0,0,19.7,16.1,,https://www.reclameaqui.com.br/empresa/claro/
+iFood,14380200000121,Alimentos e Bebidas,REGULAR,6.9,5.48,151529,150029,99,66,62.8,56.6,https://www.reclameaqui.com.br/empresa/ifood/
+Casas Bahia - Loja Online,33041260065290,Varejo,REGULAR,6,3.96,37360,34150,91.4,70.7,41.5,712,https://www.reclameaqui.com.br/empresa/casas-bahia-loja-online/
+"Vivo - Celular, Internet móvel e TV",02449992018101,"Telefonia, TV e Internet",NOT_RECOMMENDED,1.3,,97910,0,0,18.6,15.2,,https://www.reclameaqui.com.br/empresa/vivo-celular-fixo-internet-tv/
+TIM,02421421000111,"Telefonia, TV e Internet",GREAT,8.2,7.28,88844,84181,94.8,88,73.6,219.4,https://www.reclameaqui.com.br/empresa/tim-celular/
+Netflix,13590585000199,"Telefonia, TV e Internet",GOOD,7.3,6.35,3393,3370,99.3,69.7,67.4,138.1,https://www.reclameaqui.com.br/empresa/netflix/
+Uber,17895646000187,Transportes e Serviços,NOT_RECOMMENDED,1.1,,58216,0,0,13.6,19.5,,https://www.reclameaqui.com.br/empresa/uber/
